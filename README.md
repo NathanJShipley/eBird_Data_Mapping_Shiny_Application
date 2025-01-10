@@ -21,3 +21,5 @@
 
 Examples of how to use the app and its features are provided in the documentation.
 
+Also, check out the simplified version of this mapping app written in Python:
+Birding Data Mapper (Simplified Python Script)
