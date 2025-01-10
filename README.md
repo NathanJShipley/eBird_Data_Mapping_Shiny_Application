@@ -19,5 +19,5 @@
 - **Export Maps as PNGs:**  
   Download your customized maps as PNG files for use in reports, presentations, or personal analysis.
 
-Examples of how to use the app and its features are provided in the documentation. If you have any new use cases or examples to add, feel free to include them in your pull request!
+Examples of how to use the app and its features are provided in the documentation.
 
